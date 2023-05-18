@@ -1,9 +1,17 @@
-import logo from './logo_ds/LOGO.png'
+import logo from './logo_ds/LOGO.png';
+import './header.css';
+
 function HeaderGeral() {
     return (
-        <div>
-            <img src={logo} alt="maguinho" />
-            <p>logo</p>
+        <div id="div-header">
+            <img id="logo-header" src={logo} alt="maguinho" />
+            <div id='div-header-dois'>
+            <a href='#'>INICÍO</a>
+            <a href='#'>SOBRE NÓS</a>
+            <a href='#'>SOBRE CPUS</a>
+            </div>
+           
+            
         </div>
 
     );
