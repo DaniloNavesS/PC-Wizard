@@ -4,7 +4,7 @@
     $npm install // Instala dependências do projeto
 
 **Startar Projeto**
-    $npm run // Roda projeto no localhost
+    $npm run dev // Roda projeto no localhost
 
 # GitHub Commands
     $git clone url // Criar repositório em sua máquina
@@ -15,9 +15,9 @@
     $git push //As alterações de commits vão para os repositórios online para todos
 
 *Important*
-    $git push //Atualiza seu repositório local para a última versão do repositório online
+    $git pull //Atualiza seu repositório local para a última versão do repositório online
 
-    **Sempre dar "git push" quando for modificações ou alterar projeto para está sempre com
+    **Sempre dar "git pull" quando for modificações ou alterar projeto para está sempre com
     a versão atualizada da versão dos membros**
     
 
