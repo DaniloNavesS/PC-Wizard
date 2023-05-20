@@ -1,8 +1,14 @@
+import Carrosel from '../header/carrosel';
+import HeaderGeral from '../header/header';
 import './tela1.css';
 function Tela1() {
     return (
         <div>
-            //headeGeral aqui
+            <HeaderGeral/>
+            <div className='centralizar'>
+            <Carrosel/>
+            </div>
+            
         </div>
 
     );
