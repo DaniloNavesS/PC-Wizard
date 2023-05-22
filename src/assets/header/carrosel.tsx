@@ -1,3 +1,4 @@
+/* eslint-disable react-refresh/only-export-components */
 import { Navigation, Pagination, Scrollbar, A11y } from '../../../node_modules/swiper';
 
 import logo from './logo_ds/LOGO_FUNDO_PURPLE.jpg';
