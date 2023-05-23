@@ -1,0 +1,10 @@
+#divInputs{
+    height: 50vh;
+    width: 50vw;
+    display: flex;
+    flex-direction: column;
+}
+#formInput{
+    display: flex;
+    flex-direction: column;
+}
